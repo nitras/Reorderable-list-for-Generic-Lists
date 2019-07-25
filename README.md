@@ -3,5 +3,8 @@ A simple method to create a Reorderable List for a generic Lists in Unity Editor
 
 Based on http://va.lent.in/unity-make-your-lists-functional-with-reorderablelist/
 
-Hades Hideway development blog article:
-http://www.hadeshideaway.com/reorderable-list-unity/
+Check my Unity Editor packages:
+https://assetstore.unity.com/?q=nitras%20interactive&orderBy=0
+
+Check my Graphic design work
+https://www.nitras.be
